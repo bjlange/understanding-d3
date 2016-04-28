@@ -3,6 +3,9 @@ This repo holds resources from an introductory talk on D3, given by Brian Lange,
 
 Connect with Brian: [Twitter](twitter.com/bjlange) // my first name at datascope dot co
 
+## Slides
+PDF [here](https://github.com/bjlange/understanding-d3/blob/master/understanding%20d3.pdf). 
+
 ## Demo
 Finished example with transition is located [here](https://output.jsbin.com/davida).
 Data used in the demo (as well as some code I used to clean and prepare it) is included in the [/data directory](https://github.com/bjlange/understanding-d3/tree/master/data).
